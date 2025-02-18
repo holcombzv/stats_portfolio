@@ -1,6 +1,6 @@
 ## Zach Holcomb Statistical Analysis Portfolio
 
-#### [Linear Regression Weather Prediction](weather_prediction/MySimpleLinearRegression-1.html)
+#### [Linear Regression Weather Prediction](https://holcombzv.github.io/stats_portfolio/weather_prediction/MySimpleLinearRegression-1.html)
 
 Used Linear Regression to observe the relationship between the date and the tempurature over the course of 2 months. 
 
